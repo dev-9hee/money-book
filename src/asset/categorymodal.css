@@ -1,0 +1,84 @@
+.cmodal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  width: 300px;
+}
+
+.category-selection {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.category-selection button {
+  width: 100px;
+  height: 30px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.tag-options {
+  display: flex;
+
+  /* flex-direction: column; */
+}
+
+.grid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.tag-option {
+  /* display: flex; */
+  /* justify-content: space-between; */
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  width: 64px;
+  font-size: 18px;
+}
+/* 선택지 호버시 효과 */
+.tag-option:hover {
+  background-color: #f0f0f0;
+}
+
+.modalClose {
+  width: 98%;
+  height: 40px;
+  border-style: none;
+  font-size: 20px;
+}
+.category-img {
+  width: 16.73px;
+  height: 16.73px;
+  margin-right: 2px;
+}
+button.active {
+  background-color: #04cd9a;
+  color: white;
+  font-weight: bold;
+}
+.categorysize {
+  height: 30px;
+  line-height: 30px;
+}
