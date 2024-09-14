@@ -103,7 +103,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 </p>
 
 <h5>💨 Dev tools</h5>
@@ -118,7 +118,7 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/> -->
 </p>
 
 <br>
